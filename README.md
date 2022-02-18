@@ -10,3 +10,5 @@ Best results - AutoRecNew  5.0e+02 hidden units, 2.0e+02 batch size, 1.0e-03 bas
 RMSE = 0.8457319734967808
 
 Attached are train loss, test loss, and rmse history for these parameters
+
+see attached PDF file with the detailed report
